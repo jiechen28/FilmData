@@ -1,1 +1,1 @@
-web: gunicorn filmdata2022:app
+web: gunicorn app:app

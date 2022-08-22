@@ -1,1 +1,1 @@
-web: gunicorn FilmData.wsgi --log-file -
+web: gunicorn filmdata2022:app
